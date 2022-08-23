@@ -1,0 +1,42 @@
+LICENSE AGREEMENT
+
+IMPORTANT--READ CAREFULLY
+
+This License Agreement ("License") is a legal contract between you (referred to as "You" or the "Licensee")  and the University of Nebraska and/or the Board of Regents of the University of Nebraska (individually and collectively referred to as the "Licensors") for computer software developed and owned by the Licensors and/or their employees and agents.
+
+By clicking on the  icon below, or by installing, copying, viewing, downloading, or using this software, you agree to receive a nonexclusive, royalty-free license to use, copy, distribute, and modify this software under the terms and conditions of this License, including the warranties, disclaimers, limitations of liability, and other provisions below. If you do not agree to the terms and conditions of this license, do not install, copy, view, download, or use this software, and exit now.
+
+TERMS AND CONDITIONS
+
+You may use, copy, and distribute verbatim copies of the complete source code as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice (indicating ownership by the Licensors of all copyright) and disclaimer of warranty; keep intact all the notices that refer to this License and to the absence of any warranties; and distribute a copy of this License along with the copy.
+
+You may not sell, rent, or lease this software, a copy of this software, any portion of this software, or any work based on this software. A "work based on this software" means either this software, any work based in whole or in part on this software, or any "derivative work" of this software, as defined under United States copyright law. Commercial sale, resale, or distribution of this software or any work based on this software is not authorized by the Licensors and is expressly prohibited.
+
+You may modify your copy or copies of this software or any portion of this software, thus forming a work based on this software. You may also copy and distribute a work based on this software under the terms of this License, provided that you: 
+(1) cause the files or code modified to carry prominent notices stating that you changed the files or code and the date(s) of any change(s); and 
+(2) cause the whole of the work based on this software to be licensed at no charge to all third parties under the terms of this License. 
+It is not the intent of this provision to claim rights or contest your rights to work written entirely by you; rather, the intent is to exercise the right to control the distribution of derivative works, any collective work based on or including this software, or a work based on this software.
+
+Activities other than the use, copying, distribution, and modification of the complete source code are not covered by this License and are outside its scope. The act of running a program incorporating or using this software is not restricted. You may not reverse engineer, decompile, or disassemble this software, except and only to the extent that such activity is expressly permitted under the terms of this License and/or by applicable law.
+
+The Licensors may provide you with support services related to this software ("Support Services"). Use of Support Services is governed by Licensor policies and programs described in "online" documentation and/or in other Licensor-provided materials. Any supplemental software code provided to you as part of the Support Services shall be considered part of this software and is subject to the terms and conditions of this License. 
+
+Without prejudice to any other rights, Licensors may, in Licensors sole discretion, terminate this License if you fail to comply with the terms and conditions of this License. In such event, you must destroy all copies of this software, portions of this software, and works based on this software in your possession or control, and Licensors may suspend or deactivate your use of this software with or without notice.
+
+You may not copy, modify, sublicense, link with, or distribute this software except as expressly provided under this License. Any attempt otherwise to copy, modify, sublicense, link with, or distribute this software is void, and will automatically terminate your rights under this License. However, parties who have received copies or rights from you under this License will not have their licenses terminated so long as such parties remain in full compliance.
+
+You are not required to accept this License. However, nothing else grants you permission to use, view, copy, modify, or distribute this software. These actions are prohibited by copyright laws and other laws if you do not accept this License. Therefore, by modifying or distributing this software or any work based on this software, you indicate your acceptance of this License and all its terms and conditions for using, copying, distributing, or modifying this software or works based on it. 
+
+Each time you redistribute this software or any work based on this software, the recipient automatically receives a license from the Licensors to copy, distribute, link with or modify this software subject to these terms and conditions. You may not impose any further restrictions on the recipients' exercise of the rights granted herein. You are not responsible for enforcing compliance by third parties with this License.
+ 
+GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Nebraska.
+
+INTELLECTUAL PROPERTY RIGHTS
+
+All title and copyrights in and to this software are owned by Licensors. This software is protected by United States copyright laws and international treaty provisions. Therefore, you must treat this software like any other copyrighted material, subject to the provisions of this License.
+
+DISCLAIMER OF WARRANTY AND LIABILITY
+BPE AND ALL ACCOMPANYING SOFTWARE AND FILES ARE PROVIDED BY LICENSORS "AS IS." THE LICENSORS AND THEIR EMPLOYEES AND AGENTS DO NOT AND CANNOT WARRANT THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING BPE (OR A WORK BASED ON BPE ) AND THE ACCOMPANYING SOFTWARE AND FILES. THE LICENSORS AND THEIR EMPLOYEES AND AGENTS MAKE NO WARRANTIES, EXPRESS OR IMPLIED, AS TO TITLE, BPE , MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE. LICENSEE ASSUMES THE ENTIRE RISK OF USING BPE OR A WORK BASED ON BPE . IN NO EVENT WILL THE LICENSORS OR THEIR EMPLOYEES OR AGENTS BE LIABLE TO THE LICENSEE FOR ANY DAMAGES, INCLUDING ANY LOST PROFITS, LOST SAVINGS, OR OTHER INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING FROM THE LICENSOR’S OR ANOTHER PARTY'S USE OR THE INABILITY TO USE BPE OR A WORK BASED ON BPE .
+ 
+
